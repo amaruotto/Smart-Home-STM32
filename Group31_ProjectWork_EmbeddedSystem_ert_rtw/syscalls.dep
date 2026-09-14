@@ -1,0 +1,2 @@
+syscalls.o: \
+ C:/Users/maruo/Desktop/Group31_ProjectWork_EmbeddedSystems/Group31_ProjectWork_EmbeddedSystem/STM32CubeIDE/Application/User/Core/syscalls.c

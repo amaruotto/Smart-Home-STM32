@@ -1,0 +1,20 @@
+-IC:/Users/maruo/Desktop
+-IC:/ProgramData/MATLAB/SupportPackages/R2024b/toolbox/shared/supportpackages/stm32/include
+-IC:/Users/maruo/Desktop/Group31_ProjectWork_EmbeddedSystem_ert_rtw
+-I"C:/Program Files/MATLAB/R2024b/extern/include"
+-I"C:/Program Files/MATLAB/R2024b/simulink/include"
+-I"C:/Program Files/MATLAB/R2024b/rtw/c/src"
+-I"C:/Program Files/MATLAB/R2024b/rtw/c/src/ext_mode/common"
+-I"C:/Program Files/MATLAB/R2024b/rtw/c/ert"
+-I"C:/Program Files/MATLAB/R2024b/toolbox/target/shared/armcortexmbase/scheduler/include"
+-I"C:/Program Files/MATLAB/R2024b/toolbox/target/shared/armcortexmbase/xcp/include"
+-I"C:/Program Files/MATLAB/R2024b/rtw/c/src/ext_mode/serial"
+-I"C:/Program Files/MATLAB/R2024b/toolbox/target/shared/svd/common/include"
+-IC:/ProgramData/MATLAB/SupportPackages/R2024b/3P.instrset/cmsis.instrset/CMSIS/Core/Include
+-IC:/ProgramData/MATLAB/SupportPackages/R2024b/3P.instrset/cmsis_dsp.instrset/Include
+-IC:/ProgramData/MATLAB/SupportPackages/R2024b/3P.instrset/cmsis_dsp.instrset/Include/dsp
+-IC:/Users/maruo/Desktop/Group31_ProjectWork_EmbeddedSystems/Group31_ProjectWork_EmbeddedSystem/Drivers/STM32G4xx_HAL_Driver/Inc
+-IC:/Users/maruo/Desktop/Group31_ProjectWork_EmbeddedSystems/Group31_ProjectWork_EmbeddedSystem/Drivers/STM32G4xx_HAL_Driver/Inc/Legacy
+-IC:/Users/maruo/Desktop/Group31_ProjectWork_EmbeddedSystems/Group31_ProjectWork_EmbeddedSystem/Drivers/CMSIS/Device/ST/STM32G4xx/Include
+-IC:/Users/maruo/Desktop/Group31_ProjectWork_EmbeddedSystems/Group31_ProjectWork_EmbeddedSystem/Drivers/CMSIS/Include
+-IC:/Users/maruo/Desktop/Group31_ProjectWork_EmbeddedSystems/Group31_ProjectWork_EmbeddedSystem/Core/Inc
